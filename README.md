@@ -39,9 +39,6 @@ jupyter notebook
 ## Contributing
 Contributions to this project are welcome. Please fork the repository and submit a pull request with your updates.
 
-## License
-Specify the license under which the project is available, such as MIT or GPL-3.0.
-
 ## Authors
 - Yousef Qasim
 
